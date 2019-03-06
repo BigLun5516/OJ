@@ -18,5 +18,11 @@
     <ClCompile Include="201812-3-cidr合并.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="201809-1-卖菜.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="201809-2 -买菜.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
