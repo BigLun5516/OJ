@@ -118,6 +118,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="201803-1-跳一跳.cpp" />
+    <ClCompile Include="201803-2-碰撞的小球.cpp" />
     <ClCompile Include="201809-1-卖菜.cpp" />
     <ClCompile Include="201809-2 -买菜.cpp" />
     <ClCompile Include="201812-3-cidr合并.cpp" />

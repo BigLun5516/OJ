@@ -24,5 +24,11 @@
     <ClCompile Include="201809-2 -买菜.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="201803-1-跳一跳.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="201803-2-碰撞的小球.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
