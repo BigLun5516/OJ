@@ -9,9 +9,11 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PAT B1032", "PAT B1032\PAT 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "codeup 1934", "codeup 1934\codeup 1934.vcxproj", "{769B6199-E361-4F8E-8D00-A8340CFD838D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test", "test\test.vcxproj", "{9023D85A-E622-4F5F-B0DD-4DFECDEBD3B9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PAT", "test\test.vcxproj", "{9023D85A-E622-4F5F-B0DD-4DFECDEBD3B9}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "csp", "csp\csp.vcxproj", "{F78202B3-A71A-466D-839C-7C6A2B73691A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Other", "Other\Other.vcxproj", "{B6D8E4E5-23B9-4E46-BF52-7553ADE9422A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +63,14 @@ Global
 		{F78202B3-A71A-466D-839C-7C6A2B73691A}.Release|x64.Build.0 = Release|x64
 		{F78202B3-A71A-466D-839C-7C6A2B73691A}.Release|x86.ActiveCfg = Release|Win32
 		{F78202B3-A71A-466D-839C-7C6A2B73691A}.Release|x86.Build.0 = Release|Win32
+		{B6D8E4E5-23B9-4E46-BF52-7553ADE9422A}.Debug|x64.ActiveCfg = Debug|x64
+		{B6D8E4E5-23B9-4E46-BF52-7553ADE9422A}.Debug|x64.Build.0 = Debug|x64
+		{B6D8E4E5-23B9-4E46-BF52-7553ADE9422A}.Debug|x86.ActiveCfg = Debug|Win32
+		{B6D8E4E5-23B9-4E46-BF52-7553ADE9422A}.Debug|x86.Build.0 = Debug|Win32
+		{B6D8E4E5-23B9-4E46-BF52-7553ADE9422A}.Release|x64.ActiveCfg = Release|x64
+		{B6D8E4E5-23B9-4E46-BF52-7553ADE9422A}.Release|x64.Build.0 = Release|x64
+		{B6D8E4E5-23B9-4E46-BF52-7553ADE9422A}.Release|x86.ActiveCfg = Release|Win32
+		{B6D8E4E5-23B9-4E46-BF52-7553ADE9422A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

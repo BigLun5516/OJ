@@ -30,5 +30,11 @@
     <ClCompile Include="PAT B1009.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="PAT A1025.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PAT B1040.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -118,11 +118,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="201709-1-打酱油.cpp" />
+    <ClCompile Include="201712-1-最小差值.cpp" />
+    <ClCompile Include="201712-2-游戏.cpp" />
     <ClCompile Include="201803-1-跳一跳.cpp" />
     <ClCompile Include="201803-2-碰撞的小球.cpp" />
     <ClCompile Include="201809-1-卖菜.cpp" />
     <ClCompile Include="201809-2 -买菜.cpp" />
+    <ClCompile Include="201809-3-元素选择器.cpp" />
     <ClCompile Include="201812-3-cidr合并.cpp" />
+    <ClCompile Include="test.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
